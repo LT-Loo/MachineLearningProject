@@ -21,11 +21,11 @@ Activation cost function used include:
 - Cross entropy cost function
 
 ## Technology Used
-Language: Python
-Library: Matplot, Pandas
+- Language: Python
+- Library: Matplot, Pandas
 
 ## Usage Guide
-**Decision Tree & k-NN**
+**Decision Tree & k-NN**<br>
 Run the program with `python [filename].py`.
 
 **Neural Network**
