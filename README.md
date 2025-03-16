@@ -33,14 +33,13 @@ Run the program with `python [filename].py`.
 2. Run the program with
 ```
 python [filename].py [NInput] [NHidden] [NOutput] fashion-mnist_train.csv.gz fashion-mnist_test.csv.gz
-
-where
-NInput = Number of neurons in input layer
-NHidden = Number of neurons in hidden layer
-NOutput = Number of neurons in output layer
-fashion-mnist_train.csv.gz = The training set
-fashion-mnist_test.csv.gz = The test set
 ```
+*where<br>
+NInput = Number of neurons in input layer<br>
+NHidden = Number of neurons in hidden layer<br>
+NOutput = Number of neurons in output layer<br>
+fashion-mnist_train.csv.gz = The training set<br>
+fashion-mnist_test.csv.gz = The test set*
 
 ## Developer
 Loo<br>
