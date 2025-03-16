@@ -25,10 +25,10 @@ Activation cost function used include:
 - Library: Matplot, Pandas
 
 ## Usage Guide
-**Decision Tree & k-NN**<br>
+### Decision Tree & k-NN
 Run the program with `python [filename].py`.
 
-**Neural Network**
+### Neural Network
 1. Download the training and test datasets from [here](https://drive.google.com/drive/folders/12h5rDSY49SYkegXTkv6mMQOYDvwsaTeu?usp=drive_link).
 2. Run the program with
 ```
